@@ -2,7 +2,7 @@
 01 Nom:GAUTIER
 01 Prénom:  
 02 Nom:Tissot
-02 Prénom:
+02 Prénom:Hugo
 03 Nom:PAPET
 03 Prénom:
 04 Nom:TRIN
